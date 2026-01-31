@@ -4,3 +4,6 @@ print("hello, for dockers test")
 print("hello, for dockers test")
 
 print("hello, test kubernates")
+print("hello, test kubernates")
+print("hello, test kubernates")
+
